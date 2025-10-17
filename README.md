@@ -1,4 +1,5 @@
-## 👋 Hi there, <img width="1536" height="1024" alt="ChatGPT Image 17 oct 2025, 12_11_05 a m" src="https://github.com/user-attachments/assets/c15bcfd5-c4c1-4b6c-b103-d5fbdb87a11e" />
+## 👋 Hi there, <img width="1584" height="396" alt="Trevor Valenzuela" src="https://github.com/user-attachments/assets/0a51d5da-ee63-4cd6-8af4-deaf0dec8723" />
+
 I'm Trevor Valenzuela  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trevor%20Valenzuela-blue?logo=linkedin)](https://www.linkedin.com/in/trevor-roman-valenzuela-espinosa)
