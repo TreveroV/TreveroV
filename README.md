@@ -1,4 +1,5 @@
-## 👋 Hi there, I'm Trevor Valenzuela  
+## 👋 Hi there, <img width="1536" height="1024" alt="ChatGPT Image 17 oct 2025, 12_11_05 a m" src="https://github.com/user-attachments/assets/c15bcfd5-c4c1-4b6c-b103-d5fbdb87a11e" />
+I'm Trevor Valenzuela  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trevor%20Valenzuela-blue?logo=linkedin)](https://www.linkedin.com/in/trevor-roman-valenzuela-espinosa)
 [![GitHub](https://img.shields.io/badge/GitHub-TreveroV-black?logo=github)](https://github.com/TreveroV)
